@@ -1,3 +1,4 @@
+# Решение итоговых задач ["Поколение Python": курс для продвинутых](https://stepik.org/course/68343/syllabus)
 
 # [Итоговая работа на кортежи](https://stepik.org/lesson/416759/step/1?unit=406267) 
 
